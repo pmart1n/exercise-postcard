@@ -1,0 +1,68 @@
+body {
+	background: black;
+	font-family: "Handlee", cursive;
+}
+
+/* {
+	border: 1px dashed red;
+	min-height: 10px;
+} */
+
+p {
+	margin-top: auto;
+	color: black;
+}
+
+.postcard {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+
+.postcard-header {
+	display: flex;
+}
+
+.postcard-header img {
+	width: 50px;
+	height: 50px;
+}
+
+h1 {
+	width: 85%;
+	margin: 0%;
+	margin-top: 2%;
+}
+
+.postcard-body {
+	display: flex;
+}
+
+.body-left p:first-child {
+	margin-top: 0%;
+}
+
+.body-right {
+	padding: 10px;
+	padding-top: 20px;
+}
+
+input {
+	border: none;
+	text-decoration: underline;
+}
+
+.postcard-footer {
+	text-align: center;
+}
+
+button {
+	background-color: lightgrey;
+	padding: 10px;
+}
+
+input {
+	font-size: 10px;
+	padding-top: 10px;
+}

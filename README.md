@@ -14,7 +14,7 @@ Let's create a postcard with HTML5 and CSS, and then you can share it with your 
 This is the repository you need to open or clone:
 
 ```text
-https://github.com/breatheco-de/exercise-postcard
+c
 ```
 
 **👉 Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
